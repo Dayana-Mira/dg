@@ -1,0 +1,1 @@
+final String enviarFoto="https://192.168.1.1/api/enviarFoto";
